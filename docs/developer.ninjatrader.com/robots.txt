@@ -1,0 +1,9 @@
+# *
+User-agent: *
+
+# Host
+Host: https://developer.ninjatrader.com
+
+# Sitemaps
+Sitemap: https://developer.ninjatrader.com/sitemap.xml
+Sitemap: https://developer.ninjatrader.com/server-sitemap.xml
